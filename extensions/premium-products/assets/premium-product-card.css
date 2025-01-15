@@ -1,0 +1,20 @@
+.premium-card {
+    border: 2px solid gold;
+    padding: 10px;
+    text-align: center;
+    border-radius: 8px;
+}
+
+.premium-card img {
+    width: 100px;
+    height: auto;
+    margin-bottom: 10px;
+}
+
+.premium-badge {
+    background-color: gold;
+    color: black;
+    padding: 5px 10px;
+    font-weight: bold;
+    border-radius: 4px;
+}

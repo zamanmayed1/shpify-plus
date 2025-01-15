@@ -1,7 +1,7 @@
 # Learn more about configuring your app at https://shopify.dev/docs/apps/tools/cli/configuration
 
 client_id = "b253c3f18a0f21f4a70db6980ae849fa"
-application_url = "https://room-quest-harbor-monroe.trycloudflare.com"
+application_url = "https://anybody-improved-structured-cd.trycloudflare.com"
 embedded = true
 name = "App Therapy"
 handle = "app-therapy"
@@ -23,9 +23,9 @@ scopes = "write_products,read_products,read_themes, write_themes"
 
 [auth]
 redirect_urls = [
-  "https://room-quest-harbor-monroe.trycloudflare.com/auth/callback",
-  "https://room-quest-harbor-monroe.trycloudflare.com/auth/shopify/callback",
-  "https://room-quest-harbor-monroe.trycloudflare.com/api/auth/callback"
+  "https://anybody-improved-structured-cd.trycloudflare.com/auth/callback",
+  "https://anybody-improved-structured-cd.trycloudflare.com/auth/shopify/callback",
+  "https://anybody-improved-structured-cd.trycloudflare.com/api/auth/callback"
 ]
 
 [pos]
